@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Eleves>
+    <Infos>Les ages ne correspondent à rien</Infos>
+    <Person nom="Byot" age="45"/>
+    <Person nom="Savart" age="65"/>
+    <Person nom="Ampère" age="85"/>
+</Eleves>
